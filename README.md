@@ -1,4 +1,4 @@
-# SUNDAY-PROJECT-17-09-2023-
+# SUNDAY-PROJECT-17-09-2023- calculator and string methods with indexing , slicing , escaping
 
 
 # make a calculator with/without user input which calculates addition,multiplication,subtraction,divide and power multiply(modula)
